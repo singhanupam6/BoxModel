@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+#box{
+    color: indianred;
+    border: 50px solid rgb(241, 159, 6);
+    padding: 100px;
+    margin: 50px;
+    margin-right: 400px;
+    margin-left: 400px;
+    text-align: center;
+    font-size: large;
+}
+#box strong{
+    font-size: 49px;
+    background-color: black;
+    border: 10px solid rgb(8, 8, 8);
+}
+#box p{
+    background-color: black;
+    border: 10px solid rgb(8, 8, 8);
+}
